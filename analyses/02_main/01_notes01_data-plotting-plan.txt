@@ -1,0 +1,2 @@
+- not just visually appealing, but helpful plots!
+- try out which measurement is more intuitive on the x-axis and which one on the y-axis
